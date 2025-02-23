@@ -1,0 +1,1 @@
+add_executable(Lab1Repo main.cpp utils.cpp)

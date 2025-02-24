@@ -1,0 +1,10 @@
+^C:\USERS\USER\SOURCE\REPOS\MICHAELDRUZHININ\LAB1REPO\BUILD\CMAKEFILES\33CE62D50E02DC1C5CBA93AF8A11BAEC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/source/repos/michaeldruzhinin/Lab1Repo -BC:/Users/user/source/repos/michaeldruzhinin/Lab1Repo/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/source/repos/michaeldruzhinin/Lab1Repo/build/Lab1Repo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

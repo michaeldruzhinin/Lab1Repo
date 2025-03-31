@@ -1,0 +1,10 @@
+^C:\USERS\USER\SOURCE\REPOS\JOSEPHUS_PROBLEM-MIZHGUN\BUILD\CMAKEFILES\5568CB99E40448BB610D464F61A14B44\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/source/repos/josephus_problem-mizhgun -BC:/Users/user/source/repos/josephus_problem-mizhgun/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/source/repos/josephus_problem-mizhgun/build/MyProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+# ninja log v5
+369	448	7638384922839472	MyLibrary.lib	f2b335db39f5a236
+10	1882	7638384937231319	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	bf20f3c8282ab848
+3	366	7638384922092429	CMakeFiles/MyLibrary.dir/src/library.cpp.obj	3cf7b46d1784f5a9
+1882	2231	7638384940570158	bin/gtest.dll	f11f6ba44561c35
+1882	2231	7638384940570158	lib/gtest.lib	f11f6ba44561c35
+7	858	7638384926966108	CMakeFiles/MyLibraryTest.dir/tests/test_basic.cpp.obj	d5ba9e357324f771
+14	868	7638384927115788	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	205ed9070a5e9759
+2231	2507	7638384943331294	bin/gtest_main.dll	1777c9e3c0033298
+2231	2507	7638384943331294	lib/gtest_main.lib	1777c9e3c0033298

@@ -1,0 +1,21 @@
+# ninja log v5
+2811	2873	7638384795375113	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	3250236b9a4b2e6e
+2634	2704	7638384793650916	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	426a50851c809087
+2	64	7638384767293460	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	34d02c403bc8fe81
+2437	2486	7638384791498793	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f60cb095fa7915e8
+2	64	7638384767293460	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	34d02c403bc8fe81
+65	2434	7638384790980634	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a08964179fa6c90a
+65	2434	7638384790980634	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a08964179fa6c90a
+2437	2486	7638384791498793	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f60cb095fa7915e8
+2486	2553	7638384792116026	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	3244898173ad605a
+2486	2553	7638384792116026	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	3244898173ad605a
+2553	2634	7638384792983550	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9f46fd2bbff33271
+2811	2873	7638384795375113	CMakeFiles/googletest-populate-complete	3250236b9a4b2e6e
+2553	2634	7638384792983550	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9f46fd2bbff33271
+2634	2704	7638384793650916	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	426a50851c809087
+2704	2761	7638384794258848	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c1472a210fe66e72
+2704	2761	7638384794258848	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c1472a210fe66e72
+2761	2810	7638384794747676	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e11b54dba3dedc88
+2761	2810	7638384794747676	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e11b54dba3dedc88
+2811	2873	7638384795375113	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3250236b9a4b2e6e
+2811	2873	7638384795375113	C:/Users/user/source/repos/josephus_problem-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3250236b9a4b2e6e

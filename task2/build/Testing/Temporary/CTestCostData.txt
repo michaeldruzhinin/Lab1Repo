@@ -1,0 +1,5 @@
+JosephusProblemTest.BasicCases 1 0.0078036
+JosephusProblemTest.EdgeCases 1 0.0083299
+JosephusProblemTest.SpecialCases 1 0.0089499
+JosephusProblemTest.LargeInput 1 0.0098167
+---

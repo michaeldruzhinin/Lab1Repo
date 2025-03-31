@@ -1,0 +1,107 @@
+Start testing: Mar 17 18:41 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/4 Testing: JosephusProblemTest.BasicCases
+1/4 Test: JosephusProblemTest.BasicCases
+Command: "C:/Users/user/source/repos/josephus_problem-mizhgun/build/Debug/MyLibraryTest.exe" "--gtest_filter=JosephusProblemTest.BasicCases" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/user/source/repos/josephus_problem-mizhgun/build
+"JosephusProblemTest.BasicCases" start time: Mar 17 18:41 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = JosephusProblemTest.BasicCases
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JosephusProblemTest
+[ RUN      ] JosephusProblemTest.BasicCases
+[       OK ] JosephusProblemTest.BasicCases (0 ms)
+[----------] 1 test from JosephusProblemTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JosephusProblemTest.BasicCases" end time: Mar 17 18:41 RTZ 2 (çèìà)
+"JosephusProblemTest.BasicCases" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: JosephusProblemTest.EdgeCases
+2/4 Test: JosephusProblemTest.EdgeCases
+Command: "C:/Users/user/source/repos/josephus_problem-mizhgun/build/Debug/MyLibraryTest.exe" "--gtest_filter=JosephusProblemTest.EdgeCases" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/user/source/repos/josephus_problem-mizhgun/build
+"JosephusProblemTest.EdgeCases" start time: Mar 17 18:41 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = JosephusProblemTest.EdgeCases
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JosephusProblemTest
+[ RUN      ] JosephusProblemTest.EdgeCases
+[       OK ] JosephusProblemTest.EdgeCases (0 ms)
+[----------] 1 test from JosephusProblemTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JosephusProblemTest.EdgeCases" end time: Mar 17 18:41 RTZ 2 (çèìà)
+"JosephusProblemTest.EdgeCases" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: JosephusProblemTest.SpecialCases
+3/4 Test: JosephusProblemTest.SpecialCases
+Command: "C:/Users/user/source/repos/josephus_problem-mizhgun/build/Debug/MyLibraryTest.exe" "--gtest_filter=JosephusProblemTest.SpecialCases" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/user/source/repos/josephus_problem-mizhgun/build
+"JosephusProblemTest.SpecialCases" start time: Mar 17 18:41 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = JosephusProblemTest.SpecialCases
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JosephusProblemTest
+[ RUN      ] JosephusProblemTest.SpecialCases
+[       OK ] JosephusProblemTest.SpecialCases (0 ms)
+[----------] 1 test from JosephusProblemTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JosephusProblemTest.SpecialCases" end time: Mar 17 18:41 RTZ 2 (çèìà)
+"JosephusProblemTest.SpecialCases" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: JosephusProblemTest.LargeInput
+4/4 Test: JosephusProblemTest.LargeInput
+Command: "C:/Users/user/source/repos/josephus_problem-mizhgun/build/Debug/MyLibraryTest.exe" "--gtest_filter=JosephusProblemTest.LargeInput" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/user/source/repos/josephus_problem-mizhgun/build
+"JosephusProblemTest.LargeInput" start time: Mar 17 18:41 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = JosephusProblemTest.LargeInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JosephusProblemTest
+[ RUN      ] JosephusProblemTest.LargeInput
+[       OK ] JosephusProblemTest.LargeInput (1 ms)
+[----------] 1 test from JosephusProblemTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"JosephusProblemTest.LargeInput" end time: Mar 17 18:41 RTZ 2 (çèìà)
+"JosephusProblemTest.LargeInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 17 18:41 RTZ 2 (çèìà)

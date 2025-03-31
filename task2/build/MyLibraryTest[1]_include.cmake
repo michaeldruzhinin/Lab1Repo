@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/user/source/repos/josephus_problem-mizhgun/build/MyLibraryTest[1]_tests.cmake")
+  include("C:/Users/user/source/repos/josephus_problem-mizhgun/build/MyLibraryTest[1]_tests.cmake")
+else()
+  add_test(MyLibraryTest_NOT_BUILT MyLibraryTest_NOT_BUILT)
+endif()

@@ -1,0 +1,21 @@
+# ninja log v5
+2307	2361	7638402521964798	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f38203415f798172
+2	63	7638402499000944	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	402054cc2c84c69c
+2154	2204	7638402520419253	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b9169a227f9f7109
+2	63	7638402499000944	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	402054cc2c84c69c
+2205	2256	7638402520917629	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	70f2fc0ae2004ae2
+2464	2535	7638402523718878	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f05a524e14e159df
+64	2153	7638402519881032	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d2581197b89f722b
+2205	2256	7638402520917629	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	70f2fc0ae2004ae2
+64	2153	7638402519881032	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d2581197b89f722b
+2154	2204	7638402520419253	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b9169a227f9f7109
+2256	2307	7638402521435857	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	7439f3afd0dd98e6
+2464	2535	7638402523718878	CMakeFiles/googletest-populate-complete	f05a524e14e159df
+2256	2307	7638402521435857	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	7439f3afd0dd98e6
+2307	2361	7638402521964798	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f38203415f798172
+2361	2412	7638402522482322	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7dfcf833294ae4f4
+2361	2412	7638402522482322	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7dfcf833294ae4f4
+2412	2464	7638402523010961	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	a7933adecb8a6dc1
+2412	2464	7638402523010961	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	a7933adecb8a6dc1
+2464	2535	7638402523718878	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f05a524e14e159df
+2464	2535	7638402523718878	C:/Users/user/source/repos/timer_manager-mizhgun/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	f05a524e14e159df

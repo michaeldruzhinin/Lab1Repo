@@ -1,2 +1,2 @@
-# Lab1Repo
-repo for lab1 taasks
+# LabsRepo
+repo for labs c++ spring 2025
